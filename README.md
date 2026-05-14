@@ -37,7 +37,7 @@ src/
 
 ** Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Romel164255/weatherly-react.git
 
 Go to the project folder:
 
